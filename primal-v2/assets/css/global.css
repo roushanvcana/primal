@@ -997,6 +997,7 @@ a:hover {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 40px;
     letter-spacing: 20px;
+	margin-bottom: 30px;
 }
 .support-block ul {
     list-style: none;
@@ -1706,6 +1707,11 @@ px
 	font-weight: 400;
 	letter-spacing: 1px;
 	
+}
+.btn_buynow {
+    background: #fff;
+    padding: 4px 10px;
+    margin: 0 0 0;
 }
 .sect_footer p {
 	color: #dc1d24;

@@ -1782,6 +1782,7 @@
 						<div class="section-heading section-heading-white">
 							<h5 class="dash-style">SUMMER COLLECTIONS 25% OFFER</h5>
 							<h4>ALL PRODUCTS</h4>
+							<p><a href="#" class="btn_buynow">Buy Now</a></p>
 						</div>
 					</div>
 				</div>
