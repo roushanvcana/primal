@@ -114,10 +114,10 @@ a {
 .info-box .info-box-heading.green {
   color: #fff;
 }
-.scroll-tabs .nav-tab-line li a:hover,
+/*.scroll-tabs .nav-tab-line li a:hover,
 .scroll-tabs .nav-tab-line li a:focus {
   color: #0f6cb2;
-}
+}*/
 .product .product-info .name a:hover,
 .product .product-info .name a:focus {
   color: #0f6cb2;
