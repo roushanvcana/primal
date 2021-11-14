@@ -859,7 +859,7 @@
 	</div>
 	<!-- All JS is here
 ============================================ -->
-
+<div class="side_imgfix"><img src="assets/img/side.png" alt=""></div>
 	<!-- jQuery JS -->
 	<script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
 	<!-- Popper JS -->

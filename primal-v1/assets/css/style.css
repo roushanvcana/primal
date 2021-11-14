@@ -9365,7 +9365,12 @@ h3.cart-page-title {
 	color: #1f2226;
 	font-size: 13px;
 }
-
+.side_imgfix {
+    position: fixed;
+    right: 0;
+    z-index: 1024;
+    top: 200px;
+}
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 .billing-info-wrap.mr-50 {
 	margin-right: 30px;
