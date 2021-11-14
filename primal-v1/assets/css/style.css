@@ -2270,19 +2270,19 @@ textarea:focus {
 
 @media only screen and (min-width: 1366px) and (max-width: 1600px) {
 .slider-height-1 {
-	height: 700px;
+	height: auto;
 }
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1365px) {
 .slider-height-1 {
-	height: 700px;
+	height: auto;
 }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 .slider-height-1 {
-	height: 530px;
+	height: auto;
 }
 }
 
