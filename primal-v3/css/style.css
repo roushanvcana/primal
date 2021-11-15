@@ -6040,7 +6040,10 @@ blockquote {
     }
 
 .top_search {
-    line-height: 47px;
+    line-height: 50px;
+    border-left: 1px solid #4a4a4a;
+    text-align: center;
+    border-right: 1px solid #4a4a4a;
 }
 .top_search ul {
 	
@@ -6057,7 +6060,7 @@ blockquote {
 }
 
 .cart_list {
-	text-align: right;
+	text-align: center;
 }
 .cart_list ul {
 	
