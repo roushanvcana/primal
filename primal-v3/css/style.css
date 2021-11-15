@@ -68,7 +68,7 @@ h4,
 h5,
 h6 {
 	font-family: var(--title-fonts);
-	color: var(--dark-color);
+	/*color: var(--dark-color);*/
 	line-height: 1.5;
 	font-style: normal;
 	font-weight: 600;
@@ -5975,7 +5975,7 @@ blockquote {
 	font-size: 35px;
     line-height: 34px;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 400;
     display: inline-block;
     position: relative;
     padding: 0 20px;
