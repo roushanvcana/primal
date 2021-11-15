@@ -5521,3 +5521,12 @@ opacity:0
 	border-radius: 50%;
 	color: #d70638
 }
+@media (max-width:767px) {
+	
+	.banner-md-wrap .banner-content-wrap {
+   
+    padding: 0 40px;
+   
+}
+
+}
