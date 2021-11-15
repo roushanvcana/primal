@@ -6068,9 +6068,9 @@ blockquote {
     text-align: center;
     border-right: 1px solid #4a4a4a;
 }
-.search_box {
+/*.search_box {
     border-right: 1px solid #4a4a4a;
-}
+}*/
 .top_search ul {
 	
 }
@@ -12178,9 +12178,9 @@ blockquote {
     text-align: center;
     border-right: 1px solid #4a4a4a;
 }
-.search_box {
+/*.search_box {
     border-right: 1px solid #4a4a4a;
-}
+}*/
 .top_search ul {
 	
 }
@@ -12202,7 +12202,8 @@ blockquote {
 	
 }
 .cart_list li {
-	border-right: 1px solid rgba(255,255,255,.1);
+	/*border-right: 1px solid rgba(255,255,255,.1);*/
+	border-left: 1px solid rgba(255,255,255,.1);
     list-style: none;
     display: inline;
   /*  border-left: 1px solid #4a4a4a;*/
