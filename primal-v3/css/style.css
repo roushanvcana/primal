@@ -1373,7 +1373,7 @@ header#pt-header.pt-header-style-2 .pt-toggle-btn a:after {
 	}
 
 	header#pt-header.pt-header-style-2 .pt-bottom-header .navbar .navbar-nav li {
-		line-height: 51px;
+		line-height: 0;
 	}
 
 	header#pt-header.pt-header-style-2 .pt-menu-search-block {
