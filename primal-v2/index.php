@@ -38,7 +38,7 @@
 
 
 	<!-- ============================================== HEADER : END ============================================== -->
-	<div class="body-content outer-top-vs" id="top-banner-and-menu">
+	<div class="body-content" id="top-banner-and-menu">
 		<div id="hero">
 			<div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
 				<div class="item" style="background-image: url(assets/img/banner-slider/slider-banner.jpg);">
@@ -63,10 +63,10 @@
 					<div id="product-tabs-slider" class="scroll-tabs outer-top-vs">
 						<div class="more-info-tab clearfix ">
 							<!--<h3 class="new-product-title pull-left">New Products</h3>-->
-							<ul class="nav nav-tabs nav-tab-line pull-right" id="new-products-1">
+							<ul class="nav nav-tabs nav-tab-line" id="new-products-1">
 								<!--<li class="active"><a data-transition-type="backSlide" href="#all" data-toggle="tab">All</a>
 								</li>-->
-								<li><a data-transition-type="backSlide" href="#smartphone" data-toggle="tab">Most Wanted</a>
+								<li class="active"><a data-transition-type="backSlide" href="#smartphone" data-toggle="tab">Most Wanted</a>
 								</li>
 								<li><a data-transition-type="backSlide" href="#laptop" data-toggle="tab">Best Sellers</a>
 								</li>
@@ -1323,7 +1323,7 @@
 			</div>
 		</div>
 		<!-- Home subscribe section html start -->
-		<section class="subscribe-section">
+		<div class="subscribe-section">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
@@ -1334,7 +1334,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</div>
 		<!-- subscribe html end -->
 		<div class="container">
 			<div class="row">

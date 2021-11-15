@@ -434,10 +434,10 @@ img[src="assets/images/blank.gif"] {
 }
 .custom-carousel .owl-controls .owl-prev {
   position: absolute;
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
   top: -25px;
-  right: 27px;
+  right: 37px;
   -webkit-transition: all linear 0.2s;
   -moz-transition: all linear 0.2s;
   -ms-transition: all linear 0.2s;
@@ -449,18 +449,18 @@ img[src="assets/images/blank.gif"] {
   background: #dddddd;
 }
 .custom-carousel .owl-controls .owl-prev:before {
-  color: #000;
-  content: "\f104";
-  font-family: fontawesome;
-  font-size: 13px;
-  left: 7px;
+    color: #000;
+    content: "\f104";
+    font-family: fontawesome;
+    font-size: 20px;
+    left: 10px;
     position: absolute;
-  top: 0px;
+    top: 2px;
 }
 .custom-carousel .owl-controls .owl-next {
   position: absolute;
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
   top: -25px;
   right: 0px;
   -webkit-transition: all linear 0.2s;
@@ -477,10 +477,10 @@ img[src="assets/images/blank.gif"] {
   content: "\f105";
   font-family: fontawesome;
   color: #000;
-  font-size: 13px;
-  left: 7px;
-  position: absolute;
-  top: 0px;
+  font-size: 20px;
+    left: 10px;
+    position: absolute;
+    top: 2px;
 }
 .logo-slider .owl-controls .owl-prev,
 .logo-slider .owl-controls .owl-next {
@@ -657,6 +657,11 @@ img[src="assets/images/blank.gif"] {
 }
 .add-to-cart a {
 	background: #000;
+	color: #fff;
+	padding: 6px;
+}
+.add-to-cart a:hover {
+	background: #ff7878;
 	color: #fff;
 	padding: 6px;
 }
@@ -2008,7 +2013,7 @@ header{
 #owl-main {
   text-align: center;
   cursor: default;
-  height: 520px;
+  height: 597px;
 }
 #owl-main .owl-controls {
   display: inline-block;
@@ -2362,9 +2367,9 @@ header{
 }
 #owl-main .item {
   background-color: #FFFFFF;
-  background-position: center 55%;
-  background-size: cover;
-  height: 520px;
+  background-position: 0 0;
+  background-size: 100%;
+  height: 597px;
 }
 #owl-main .item .caption {
   color: #636363;
@@ -2777,23 +2782,31 @@ font-family: FontAwesome;
   border-bottom: none;
   margin-top: 6px;
   margin-right: 55px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .scroll-tabs .nav-tab-line li.active a {
   border: none;
+	background: #dc1d24;
+    color: #fff;
 }
 .scroll-tabs .nav-tab-line li a {
+	border-radius: 0px;
+	background: #d7d7d7;
    font-weight: 400;
-  color: #666666;
-  font-size: 13px;
+  color: #000;
+  font-size: 16px;
   border: medium none;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  padding: 0 10px !important;
+  padding: 10px !important;
   position: relative;
   font-family: 'Barlow', sans-serif;
-  text-transform:uppercase;
-  letter-spacing:0.5px
+  text-transform:capitalize;
+  letter-spacing:0.5px;
+	margin-right: 10px;
 }
 .scroll-tabs .nav-tab-line li a:hover,
 .scroll-tabs .nav-tab-line li a:focus {
