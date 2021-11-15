@@ -6001,15 +6001,17 @@ blockquote {
 
 #custom-search-input {
 	 font-family: 'Oswald', sans-serif;
-        margin:5px 0;
+        margin:0;
         padding: 0;
+	line-height: 50px;
     }
  
     #custom-search-input .search-query {
-        padding-right: 3px;
+			padding: 25px 10px;
+      /*  padding-right: 3px;
         padding-right: 4px \9;
         padding-left: 3px;
-        padding-left: 4px \9;
+        padding-left: 4px \9;*/
 			background: transparent;
 			border: medium none;
  
@@ -6043,6 +6045,9 @@ blockquote {
     line-height: 50px;
     border-left: 1px solid #4a4a4a;
     text-align: center;
+    border-right: 1px solid #4a4a4a;
+}
+.search_box {
     border-right: 1px solid #4a4a4a;
 }
 .top_search ul {
