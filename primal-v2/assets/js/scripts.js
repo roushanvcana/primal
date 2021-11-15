@@ -216,10 +216,13 @@ jQuery(".sidebar-carousel").owlCarousel({
 });
 
 jQuery(".brand-slider").owlCarousel({
-    items :6,
+    items :4,
+	margin:10,
     navigation : true,
     slideSpeed : 300,
-    pagination: false,
+	dots:true,
+	
+    pagination: true,
     paginationSpeed : 400,
     navigationText: ["", ""]
 });    
