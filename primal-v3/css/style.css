@@ -12239,3 +12239,29 @@ blockquote {
 .payment_img {
 	padding: 10px 0 0;
 }
+@media (max-width:767px) {
+	.countdown_tab {
+    display: none;
+}
+	
+	.home-services {
+    padding: 20px 0;
+}
+	.search {
+    display: flex;
+    padding-left: 10px;
+    margin: 20px 0 0;
+}
+	#pt-footer {
+   
+    background-size: cover;
+    display: inline-block;
+    
+}
+	.ft-2 {
+    padding: 0;
+}
+	.pt-footer1 {
+    padding: 0 40px;
+}
+}
