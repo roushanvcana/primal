@@ -1154,15 +1154,14 @@ textarea:focus {
 	transition: all .3s ease 0s;
 }
 .logo img {
-	background: #000;
-	padding: 20px 10px;
+ 	padding: 20px 10px;
 }
 .main-menu {
 	margin-left: 30px;
 }
 .main-menu > nav > ul > li {
 	display: inline-block;
-	margin: 0 26px;
+	margin: 0 20px;
 	position: relative;
 }
 
@@ -1370,9 +1369,10 @@ textarea:focus {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
+	justify-content: space-between;
 	-webkit-box-pack: end;
 	-ms-flex-pack: end;
-	justify-content: flex-end;
+	/* justify-content: flex-end; */
 	-webkit-transition: all .3s ease 0s;
 	-o-transition: all .3s ease 0s;
 	transition: all .3s ease 0s;
@@ -5577,7 +5577,7 @@ textarea:focus {
 }
 .f_bg {
 	background: #2c2c2c;
-	padding: 86px 0;
+	/* padding: 86px 0; */
 }
 .ft_img {
 	text-align: center;
@@ -9666,5 +9666,25 @@ h3.cart-page-title {
 	font-size: 14px;
 	padding: 20px 0;
 }
+
+.socials-links li a i.clr{
+    color: #000;
+}
+
+.socials-links.clr li a {
+    background: transparent;
+	width: auto;
+}
+
+button.icon-cart-active {
+padding: 0;
+}
+ul.socials-links.clr {
+	padding: 0;
+}
+.banner-area.pt-20.pb-20 img {
+    width: 100%;
+}
+
 
 /*-------- Start My Account Page Wrapper --------*/

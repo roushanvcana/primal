@@ -19,6 +19,10 @@
 	<link rel="stylesheet" href="assets/css/plugins.css">
 	<!-- Main Style CSS -->
 	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.css">
+	<link rel="stylesheet" href="assets/css/owl.transitions.css">
+	<link rel="stylesheet" href="assets/css/owl.theme.min.css">
+	<link rel="stylesheet" href="assets/css/global.css">
 
 	
 	<!--<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -34,7 +38,7 @@
 		<?php include 'include/header.php' ?>
 		<!-- header end here -->
 		<!-- Slider banner start here -->
-		<?php include 'include/banner.php' ?>
+		<!-- <?php include 'include/banner.php' ?> -->
 		<!-- Slider banner end here -->
 		<!-- banner start here -->
 		<div class="banner-area pt-20 pb-20">
@@ -492,7 +496,7 @@
 		<!-- sports section end here -->
 		<!-- banner start here -->
 		<div class="banner-area pt-20 pb-20">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-lg-6 col-md-6">
 						<div class="single-banner mb-30 scroll-zoom">
@@ -724,24 +728,120 @@
 		</div>
 		<!-- sports section end here -->
 <!--	banner footer start here	-->
-		<div class="container">
-		 <div class="row">
-			<div class="col-lg-12">
-			 <div class="footer_section_imgbox">
-				
+<div class="testimonial_bg">
+			<div class="container">
 				<div class="row">
-				 <div class="col-lg-8">
-					<div class="f_bg"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit </p></div>
+					<div class="col-md-12">
+						<h4 class="testi_hedi">What People Says?</h4>
+						<div class="img_icon"><img src="assets/img/img/heading_img.png" alt="">
+						</div>
+						<div id="testimonial-slider" class="owl-carousel">
+							<div class="testimonial">
+								<p class="description">
+									<span></span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim diam, tempus vel ultricies viverra, luctus in elit. Aliquam tempus blandit velit, in pharetra ex volutpat a. Cras eu augue ac nisl tempor commodo.
+								</p>
+								<div class="pic">
+									<img src="assets/img/img/testimonial/t1.jpg" alt="">
+								</div>
+								<h3 class="testimonial-title">
+                        Cesar Owens
+                       <!-- <small>Web Developer</small>-->
+                    </h3>
+							
+
+							</div>
+							<div class="testimonial">
+								<p class="description">
+									"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim diam, tempus vel ultricies viverra, luctus in elit. Aliquam tempus blandit velit, in pharetra ex volutpat a. Cras eu augue ac nisl tempor commodo."
+								</p>
+								<div class="pic">
+									<img src="assets/img/img/testimonial/t2.jpg" alt="">
+								</div>
+								<h3 class="testimonial-title">
+                        Sarah Thomas
+                       <!-- <small>Web Designer</small>-->
+                    </h3>
+							
+
+							</div>
+							<div class="testimonial">
+								<p class="description">
+									"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim diam, tempus vel ultricies viverra, luctus in elit. Aliquam tempus blandit velit, in pharetra ex volutpat a. Cras eu augue ac nisl tempor commodo."
+								</p>
+								<div class="pic">
+									<img src="assets/img/img/testimonial/t3.jpg" alt="">
+								</div>
+								<h3 class="testimonial-title">
+                        Gordon Bryan
+                       <!-- <small>Web Designer</small>-->
+                    </h3>
+							
+
+							</div>
+							<div class="testimonial">
+								<p class="description">
+									<span></span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim diam, tempus vel ultricies viverra, luctus in elit. Aliquam tempus blandit velit, in pharetra ex volutpat a. Cras eu augue ac nisl tempor commodo.
+								</p>
+								<div class="pic">
+									<img src="assets/img/img/testimonial/t1.jpg" alt="">
+								</div>
+								<h3 class="testimonial-title">
+                        Cesar Owens
+                       <!-- <small>Web Developer</small>-->
+                    </h3>
+							
+
+							</div>
+							<div class="testimonial">
+								<p class="description">
+									"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim diam, tempus vel ultricies viverra, luctus in elit. Aliquam tempus blandit velit, in pharetra ex volutpat a. Cras eu augue ac nisl tempor commodo."
+								</p>
+								<div class="pic">
+									<img src="assets/img/img/testimonial/t2.jpg" alt="">
+								</div>
+								<h3 class="testimonial-title">
+                        Sarah Thomas
+                       <!-- <small>Web Designer</small>-->
+                    </h3>
+							
+
+							</div>
+							<div class="testimonial">
+								<p class="description">
+									"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim diam, tempus vel ultricies viverra, luctus in elit. Aliquam tempus blandit velit, in pharetra ex volutpat a. Cras eu augue ac nisl tempor commodo."
+								</p>
+								<div class="pic">
+									<img src="assets/img/img/testimonial/t3.jpg" alt="">
+								</div>
+								<h3 class="testimonial-title">
+                        Gordon Bryan
+                       <!-- <small>Web Designer</small>-->
+                    </h3>
+							
+
+							</div>
+						</div>
 					</div>
-					<div class="col-lg-4">
-					<div class="ft_img"><img src="assets/img/icon-img/ft_img.png" alt="img"></div>
-					</div>
-				 </div>
 				</div>
-			 </div>
 			</div>
 		</div>
-<!--	banner footer end here	-->
+        <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                <div class="footer_section_imgbox">
+                   
+                   <div class="row">
+                    <div class="col-lg-8">
+                       <div class="f_bg"><div class="tagembed-container" style="width: 100%; height: 169px; overflow: hidden; line-height: initial;"><div class="tagembed-socialwall" data-wall-id="17791" view-url="https://widget.tagembed.com/17791?view"><iframe src="https://widget.tagembed.com/17791" data-fixed-height="1" data-height="150" data-wall="17791" data-position="0" id="iframenpnjd9" style="visibility: visible; position: static; margin: 0px; left: -999em; display: inline-block; border: none; width: 100%; height: 169px; min-height: 169px;" scrolling="no" frameborder="0" allowtransparency="true" title="Tagembed widget"></iframe></div> <style></style></div></div>
+                       </div>
+                       <div class="col-lg-4">
+                       <div class="ft_img"><img src="assets/img/icon-img/ft_img.png" alt="img"></div>
+                       </div>
+                    </div>
+                   </div>
+                </div>
+               </div>
+           </div>
 <!--	client logo start here	-->
 		<div class="product-area pt-20 pb-20">
 			<div class="container">
@@ -871,6 +971,43 @@
 	<script src="assets/js/plugins.js"></script>
 	<!-- Main JS -->
 	<script src="assets/js/main.js"></script>
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script>
+	<script>
+		$( document ).ready( function () {
+			$( "#testimonial-slider" ).owlCarousel( {
+				loop: true,
+				center: true,
+				items: 3,
+				margin: 0,
+				autoplay: true,
+				dots: true,
+				autoplayTimeout: 1500,
+				smartSpeed: 450,
+				responsive: {
+					0: {
+						items: 1
+					},
+					768: {
+						items: 2
+					},
+					1170: {
+						items: 3
+					}
+				}
+			} );
+		} );
+	</script>
+	<script>
+		$( '#client-logo' ).owlCarousel( {
+			loop: true,
+			margin: 30,
+			autoplay: true,
+			dots: true,
+			nav: true,
+			items: 3,
+		} )
+	</script>
 
 </body>
 

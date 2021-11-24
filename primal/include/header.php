@@ -26,11 +26,11 @@
 			<div class="row">
 				<div class="col-xl-2 col-lg-2">
 					<div class="logo pt-40">
-						<a href="index.php"><img src="assets/img/logo/primal-logo1.svg" alt="Primal"></a>
+						<a href="index.php"><img src="assets/img/logo/primal-logo1.png" alt="Primal"></a>
 					
 					</div>
 				</div>
-				<div class="col-xl-8 col-lg-8 ">
+				<div class="col-xl-7 col-lg-8 ">
 					<div class="main-menu">
 						<nav>
 							<ul>
@@ -54,7 +54,7 @@
 						</nav>
 					</div>
 				</div>
-				<div class="col-xl-2 col-lg-2">
+				<div class="col-xl-3 col-lg-2">
 					<div class="header-right-wrap pt-40">
 						<div class="header-search">
 							<a class="search-active" href="#"><i class="sli sli-magnifier"></i></a>
@@ -67,6 +67,7 @@
                                     </span>
                                     
                                 </button>
+								
 						
 							<div class="shopping-cart-content">
 								<div class="shopping-cart-top">
@@ -109,6 +110,31 @@
 									</div>
 								</div>
 							</div>
+						</div>
+						<div class="social-icon-header">
+						<ul class="socials-links clr">
+
+
+<li class="facebook"><a href="#" target="_blank"><i class="fa fa-facebook clr"></i></a>
+</li>
+
+
+<li class="twitter"><a href="#" target="_blank"><i class="fa fa-twitter clr"></i></a>
+</li>
+
+
+<li class="linkedin"><a href="#" target="_blank"><i class="fa fa-linkedin clr"></i></a>
+</li>
+
+
+<li class="instagram"><a href="#" target="_blank"><i class="fa  fa-instagram clr"></i></a>
+</li>
+
+
+<li class="pinterest"><a href="#" target="_blank"><i class="fa fa-pinterest clr"></i></a>
+</li>
+
+</ul>
 						</div>
 
 					</div>
@@ -258,3 +284,4 @@
             </div>
         </div>
     </div>
+	
