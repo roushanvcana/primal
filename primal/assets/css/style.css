@@ -1153,8 +1153,12 @@ textarea:focus {
 	-o-transition: all .3s ease 0s;
 	transition: all .3s ease 0s;
 }
-.logo img {
+
+header.header-area.sticky-bar.stick .logo img {
  	padding: 20px 10px;
+}
+.logo img {
+ 	/* padding: 20px 10px; */
 }
 .main-menu {
 	margin-left: 30px;
