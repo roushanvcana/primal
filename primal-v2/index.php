@@ -617,11 +617,8 @@
 							<ul class="nav nav-tabs nav-tab-line" id="new-products-1">
 								<!--<li class="active"><a data-transition-type="backSlide" href="#all" data-toggle="tab">All</a>
 								</li>-->
-<<<<<<< HEAD
 								<li class="active"><a data-transition-type="backSlide" href="#smartphone" data-toggle="tab">Most Wanted</a>
-=======
 								<li class="active"><a data-transition-type="backSlide" href="#mostwanted" data-toggle="tab">Most Wanted</a>
->>>>>>> 989ff76f05db9640ab32c6e938fb5142875dad72
 								</li>
 								<li><a data-transition-type="backSlide" href="#bestseller" data-toggle="tab">Best Sellers</a>
 								</li>
