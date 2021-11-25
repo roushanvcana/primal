@@ -618,8 +618,8 @@
 								<!--<li class="active"><a data-transition-type="backSlide" href="#all" data-toggle="tab">All</a>
 								</li>-->
 								<li class="active"><a data-transition-type="backSlide" href="#smartphone" data-toggle="tab">Most Wanted</a>
-								<li class="active"><a data-transition-type="backSlide" href="#mostwanted" data-toggle="tab">Most Wanted</a>
-								</li>
+
+							</li>
 								<li><a data-transition-type="backSlide" href="#bestseller" data-toggle="tab">Best Sellers</a>
 								</li>
 								<li><a data-transition-type="backSlide" href="#newarrival" data-toggle="tab">New Arrivals</a>
