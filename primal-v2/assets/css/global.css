@@ -997,6 +997,7 @@ a:hover {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 40px;
     letter-spacing: 20px;
+	margin-bottom: 30px;
 }
 .support-block ul {
     list-style: none;
@@ -1627,6 +1628,7 @@ px
 .banner_bg {
     background: #28282a;
     height: 200px;
+	margin: 0 20px;
 }
 .box_1 {
     border: 1px solid #585858;
@@ -1706,11 +1708,16 @@ px
 	letter-spacing: 1px;
 	
 }
+.btn_buynow {
+    background: #fff;
+    padding: 4px 10px;
+    margin: 0 0 0;
+}
 .sect_footer p {
 	color: #dc1d24;
 	
 	font-family: 'Barlow', sans-serif;
-	font-size: 22px;
+	font-size: 16px;
 	font-weight: 400;
 	letter-spacing: 1px;
 }
@@ -1718,8 +1725,12 @@ px
 	color: #fff;
 	font-weight: 600;
 }
+.footer-logo {
+    background: #000;
+    padding: 9px 5px;
+}
 .btn_bynow {
-    margin: 10px 0 0;
+    margin: 14px 0 0;
 }
 .btn_bynow a {
 	background: #fff;
@@ -1735,4 +1746,7 @@ px
 }
 .section_padd {
 	padding: 60px 0 0;
+}
+#hero {
+    padding: 20px 20px 0;
 }
