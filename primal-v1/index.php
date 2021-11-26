@@ -67,6 +67,9 @@
 		</div>
 		<!-- banner end here -->
 		<!-- product section start here -->
+        <!-- <div class="banner-area pt-20 pb-20">
+			<a href="#"><img src="assets/img/banner/banner-1.jpg" alt=""></a>
+		</div> -->
 		<div class="product-area">
 			<div class="container">
 				<div class="section-title text-center pb-45">
