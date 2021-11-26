@@ -280,14 +280,24 @@
 		</div>
 		<!-- product section end here -->
 		<!-- banner area start here -->
-		<div class="banner-area pt-20 pb-20">
-			<a href="#"><img src="assets/img/banner/banner-1.jpg" alt=""></a>
+		<div class="subscribe-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="section-heading section-heading-white">
+							<h5 class="dash-style">SUMMER COLLECTIONS 25% OFFER</h5>
+							<h4>ALL PRODUCTS</h4>
+							<p><a href="#" class="btn_buynow">Buy Now</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<!-- banner area end here -->
 	<!-- bike section start here -->
 		<div class="product-area">
 			<div class="container">
-				<div class="section-title text-center pb-45">
+				<div class="section-title text-center pb-45 pt-5">
 					<h2>BIKES</h2>
 					<p>CURATED AND HANDPICKED FOR YOU</p>
 				</div>
