@@ -244,7 +244,7 @@
     $('.client_slider').owlCarousel({
         loop: true,
         nav: true,
-        autoplay: false,
+        autoplay: true,
         navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
         autoplayTimeout: 5000,
         animateOut: 'fadeOut',
